@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import java.lang.reflect.Field;
 
 @Component
-public class RandomNameBeanPostProcessormImpl implements BeanPostProcessor {
+public class RandomTextBeanPostProcessormImpl implements BeanPostProcessor {
     private DataFactory dataFactory = new DataFactory();
 
     @Override

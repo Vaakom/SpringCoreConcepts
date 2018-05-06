@@ -11,6 +11,6 @@ public class FacebookSNObserverImpl  implements SNObserver {
     private SocialNetworkPost post;
 
     public void checkNetwork() {
-        System.out.println("Facebook: " + post.getUserName() + " " + post.getText());
+        System.out.println("Facebook. User:" + post.getUserName() + " Post:" + post.getText());
     }
 }
