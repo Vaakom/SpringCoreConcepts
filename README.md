@@ -1,3 +1,13 @@
 # SpringCoreConcepts
-My small Spring cheat sheet:<br>
-PostConstruct, PostProcessor, Java and Annotation setup, Testing, Spring Data setup, Java 9 compatibility dependencies... e.t.c.
+My small Spring5 cheat sheet. Simple examples of main Spring concepts:<br>
+
+- PostConstruct <br>
+- Custom annotations
+- Simple BeanPostProcessor <br>
+- BeanPostProcessor with Proxy <br>
+- Java and Annotation setup <br>
+- Testing <br>
+- Spring Data setup <br>
+- Java 9 compatibility dependencies <br>
+
+... e.t.c.
