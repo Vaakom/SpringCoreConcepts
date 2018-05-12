@@ -2,7 +2,7 @@
 My small Spring5 cheat sheet. Simple examples of main Spring concepts:<br>
 
 - PostConstruct <br>
-- Custom annotations
+- Custom annotations <br>
 - BeanPostProcessor <br>
 - BeanPostProcessor with Proxy <br>
 - Java and Annotation setup <br>
